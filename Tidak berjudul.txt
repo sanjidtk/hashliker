@@ -1,0 +1,4 @@
+<?php
+echo ' Username: ';
+$user = trim(fgets(STDIN));
+echo ' Password: '; ?>
