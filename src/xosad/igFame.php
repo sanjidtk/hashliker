@@ -147,7 +147,7 @@ class igFame extends Common
 
 							$this->echoColored('(' . $user_i . ') liked @' . $post['user']['username'] . ' post: https://www.instagram.com/p/' . $userMedias[$key]['code'] . '/', 'blue', '', false);
 
-							$sleepShort = random_int(30, 40);
+							$sleepShort = random_int(20, 40);
 							echo 'sleeping ' . $sleepShort . ' seconds' . PHP_EOL;
 							sleep($sleepShort);
 
@@ -162,7 +162,7 @@ class igFame extends Common
 					$i++;
 				}
 
-				$sleep = random_int(90, 120);
+				$sleep = random_int(40, 80);
 
 				$this->echoColored('sleeping before next tag ' . $sleep . ' seconds', 'yellow', '', false);
 				sleep($sleep);
