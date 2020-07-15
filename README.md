@@ -1,31 +1,31 @@
 <p align="center">
-  <h1 align="center"> 📷 igFame - Tool for automated Instagram interactions </h1>
+  <h1 align="center"> Hashliker - Tool for automated Instagram interactions </h1>
   <p align="center">Tooling that <b>automates</b> your instagram media interactions to “farm” Likes, Comments, and Followers on Instagram Implemented in PHP.<p>
 </p>
 
 ## Table of contents
-- [How to install and run igFame](#installation)
-  * [Installing igFame](#installation)
-  * [Configuring igFame](#configuring-igFame)
-  * [Running igFame](#running-igFame)
+- [How to install and run hashliker](#installation)
+  * [Installing hashliker](#installation)
+  * [Configuring hashliker](#configuring-igFame)
+  * [Running hashliker](#running-igFame)
 - [Disclaimer](#disclaimer)
 - [Contribution](#contribution)
 
 
 ## **Installation**
 ```elm
-git clone git@github.com:xosad/igFame.git
+git clone https://github.com/sanjidtk/hashliker
 ```
 
-#### Configuring igFame
+#### Configuring Hashliker
 
-Start of by editing `config.example.json`:
+Start of by editing `config.json`:
 
 ```
 {
      "account": {
-     	"username": "janedoe", //Instagram username
-     	"password": "janedoe" //Instagram password
+     	"username": "yourusername", //Instagram username
+     	"password": "yourpassword" //Instagram password
      },
      "sleep_delay": 2200, //Sleep delay after looping all tags
      "like_depth_per_user": 3, //How many random images should the bot like from users
@@ -47,9 +47,8 @@ Start of by editing `config.example.json`:
 }
 ```
 
-After editing this rename it to `config.json`.
 
-#### Running igFame
+#### Running Hashliker
 
 ```elm
 php bot.php
