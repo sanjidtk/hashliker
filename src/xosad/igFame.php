@@ -162,7 +162,7 @@ class igFame extends Common
 					$i++;
 				}
 
-				$sleep = random_int(40, 80);
+				$sleep = random_int(30, 90);
 
 				$this->echoColored('sleeping before next tag ' . $sleep . ' seconds', 'yellow', '', false);
 				sleep($sleep);
