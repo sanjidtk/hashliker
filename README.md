@@ -2,6 +2,7 @@
   <h1 align="center"> Hashliker - Tool for automated Instagram interactions </h1>
   <p align="center">Tooling that <b>automates</b> your instagram media interactions to “farm” Likes, Comments, and Followers on Instagram Implemented in PHP.<p>
 </p>
+<p>Developed by xosad and modified by mohsanjid </p>
 
 ## Table of contents
 - [How to install and run hashliker](#installation)
@@ -57,6 +58,8 @@ php bot.php
 **That's it! 🚀**
 
 ---
+SUBSCRIBE TO MY CHANNEL www.youtube.com/PhotoLooz
+Catch me on Instagram www.instagram.com/mohsanjid
 
 #### Disclaimer
 
