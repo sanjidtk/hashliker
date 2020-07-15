@@ -1,4 +1,7 @@
-<h1>Modified by mohsanjid</h1>
+👨‍💻 👨‍💻👨‍💻👨‍💻👨‍💻
+Modified by mohsanjid
+Subscribe to my channel PhotoLooz
+👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍
 
 <?php
 error_reporting(0);
