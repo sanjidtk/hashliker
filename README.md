@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hashliker - Tool for automated Instagram interactions </h1>
-  <p align="center">Tooling that <b>automates</b> your instagram media interactions to “farm” Likes, Comments, and Followers on Instagram Implemented in PHP.<p>
+  <p align="center">Tool that <b>automates</b> your instagram media interactions to “farm” Likes, Comments, and Followers on Instagram Implemented in PHP.<p>
 </p>
 <p>Developed by xosad and modified by mohsanjid </p>
 
