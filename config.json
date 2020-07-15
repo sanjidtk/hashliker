@@ -1,16 +1,16 @@
 {
 	"account": {
-		"username": "password",
-		"password": "yourfuckingpassword"
+		"username": "username",
+		"password": "password"
 	},
 	"sleep_delay": 2200,
 	"like_depth_per_user": 3,
 	"proxy": "",
 	"like_depth_per_tag": 4,
 	"tags": [
-		"baju",
-		"mantap",
-		"olshop"
+		"kerala",
+		"kochi",
+		"india"
 	],
 	"blacklisted_tags": [
 		"testing",
